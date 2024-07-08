@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipCode", "ClipCode\ClipCode.csproj", "{EEBA3C27-3012-4D81-961A-045E383279CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEBA3C27-3012-4D81-961A-045E383279CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBA3C27-3012-4D81-961A-045E383279CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBA3C27-3012-4D81-961A-045E383279CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBA3C27-3012-4D81-961A-045E383279CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F35C6FE-32C1-42A2-BB0A-B78C1F80042B}
+	EndGlobalSection
+EndGlobal
