@@ -1,0 +1,2 @@
+# ClipCode
+Clipboard QRCode generator
